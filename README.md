@@ -9,7 +9,8 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [Eve-ng.net](https://www.eve-ng.net/) - Wirtualne laboratorium zniżka 25% na plan 18 miesięczny
 * [ZrozumSieci.pl](https://zrozumsieci.pl/) - Szkolenie z sieci komputerowych od Marcel Guzenda z kodem `BF23` 10% taniej
 * [AsDevops.pl](https://asdevops.pl/akcja-specjalna/) - Wszystkie szkolenia oraz ebooki ze stajni ADM z rabatem 70%
-* [INE.com](https://checkout.ine.com/black-friday-2023) - Specjalne pakiety szkoleń oraz labów 
+* [Ine.com](https://checkout.ine.com/black-friday-2023) - Specjalne pakiety szkoleń oraz labów
+* [OrhanErgun.net](https://orhanergun.net/pricing) - Pełny katalog szkoleń w abonamentach z rabatem do 60%
 
 # Inne listy
 
