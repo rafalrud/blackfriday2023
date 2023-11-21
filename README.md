@@ -5,12 +5,17 @@ Zbiór promocji z okazji BlackFriday 2023 z zakresu sieci komputerowych i automa
 Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 
 # Promocje
+* [InnaSiec.pl](https://www.mailingr.co/c/sesame/premium?variant=44ead308-0c22-4ade-a059-045b1f8c6a5e) - Newsletter Premium na rok z rabatem 40% #autopromocja 
 * [Cisco U](https://mkto.cisco.com/black-friday-sale-2023.html) - Platforma edukacyjna Cisco U z rabatem 40% na plan Essentials
+* [Cisco](https://learningnetworkstore.cisco.com/promotions) - Cisco Modeling Lab oraz materiały edukacyjne. 40% rabatu na Cyber Monday przez 4h od godziny 17:00 , następnie 25%
 * [Eve-ng.net](https://www.eve-ng.net/) - Wirtualne laboratorium zniżka 25% na plan 18 miesięczny
+* [Ebookpoint.pl](https://ebookpoint.pl/promocja-xzay/23/informatyka) - Wybrane pozycje w promocji 2 za 1 lub z rabatem 50%
 * [ZrozumSieci.pl](https://zrozumsieci.pl/) - Szkolenie z sieci komputerowych od Marcel Guzenda z kodem `BF23` 10% taniej
 * [AsDevops.pl](https://asdevops.pl/akcja-specjalna/) - Wszystkie szkolenia oraz ebooki ze stajni ADM z rabatem 70%
 * [Ine.com](https://checkout.ine.com/black-friday-2023) - Specjalne pakiety szkoleń oraz labów
 * [OrhanErgun.net](https://orhanergun.net/pricing) - Pełny katalog szkoleń w abonamentach z rabatem do 60%
+* [TeamViewer.com](https://service.teamviewer.com/pl-pl/overview?coupon=CMP-HPNN-GL-BF23) - Aplikacja do zdalnego pulpitu z rabatem 40% w wersji Business lub Team
+* [AnyDesk.com](https://order.anydesk.com/product/solo) - Aplikacja do zdalnego pulpitu, 3 miesiące gratis w każdym okresie rozliczeniowym (15 miesięcy)
 
 # Inne listy
 
