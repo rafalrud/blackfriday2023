@@ -10,6 +10,7 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [Cisco.com](https://learningnetworkstore.cisco.com/promotions) - Cisco Modeling Lab oraz materiały edukacyjne. 40% rabatu na Cyber Monday przez 4h od godziny 17:00 , następnie 25%
 * [Eve-ng.net](https://www.eve-ng.net/) - Wirtualne laboratorium zniżka 25% na plan 18 miesięczny
 * [Ebookpoint.pl](https://ebookpoint.pl/promocja-xzay/23/informatyka) - Wybrane pozycje w promocji 2 za 1 lub z rabatem 50%
+* [Helion.pl](https://helion.pl/promocje#anchor_26) - Wybrane pozycje w promocji 2 za 1 lub z rabatem 40% na książki drukowane oraz 50% na ebooki
 * [ZrozumSieci.pl](https://zrozumsieci.pl/) - Szkolenie z sieci komputerowych od Marcel Guzenda z kodem `BF23` 10% taniej
 * [AsDevops.pl](https://asdevops.pl/akcja-specjalna/) - Wszystkie szkolenia oraz ebooki ze stajni ADM z rabatem 70%
 * [Ine.com](https://checkout.ine.com/black-friday-2023) - Specjalne pakiety szkoleń oraz labów
