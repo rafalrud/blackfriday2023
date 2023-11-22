@@ -21,6 +21,7 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [VMware.com](https://blogs.vmware.com/learning/2023/11/20/black-friday-discount-new-beta-exam-and-chance-to-receive-half-off-a-future-vcp-exam/) - Beta egzamin VMware Cloud Infrastructure Administrator za 50$ oraz 50% zniżki na egzamin na poziomie VCP
 * [Pluralsight.com](https://www.pluralsight.com/pricing/skills) - Subskrypcja na dostęp do pełnego katalogu szkoleń z rabatem 50%
 * [Ui.com](https://eu.store.ui.com/eu/en/pro/collections/amplifi-alien/products/amplifi-alien-router-and-meshpoint?variant=afi-aln-eu) - System mesh AmpliFi Alien od 220$
+* [PracticalNetworking.net](https://classes.pracnet.net/courses/practical-tls) - Szkolenie z protokołu TLS przecenione z 297$ na 50$
 
 # Inne listy
 
