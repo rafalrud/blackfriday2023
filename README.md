@@ -17,7 +17,8 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [TeamViewer.com](https://service.teamviewer.com/pl-pl/overview?coupon=CMP-HPNN-GL-BF23) - Aplikacja do zdalnego pulpitu z rabatem 40% w wersji Business lub Team
 * [AnyDesk.com](https://order.anydesk.com/product/solo) - Aplikacja do zdalnego pulpitu, 3 miesiące gratis w każdym okresie rozliczeniowym (15 miesięcy)
 * [VMware.com](https://www.vmware.com/products/workstation-pro.html) - Aplikacja do lokalnej wirtualizacji Vmware Workstation Pro z rabatem do 30%
-* [VMware.com](https://blogs.vmware.com/learning/2023/11/20/black-friday-discount-new-beta-exam-and-chance-to-receive-half-off-a-future-vcp-exam/) - Beta egzamin VMware Cloud Infrastructure Administrator za 50$ oraz 50% zniżki na egzamin na poziomie VCP 
+* [VMware.com](https://blogs.vmware.com/learning/2023/11/20/black-friday-discount-new-beta-exam-and-chance-to-receive-half-off-a-future-vcp-exam/) - Beta egzamin VMware Cloud Infrastructure Administrator za 50$ oraz 50% zniżki na egzamin na poziomie VCP
+* [Pluralsight.com](https://www.pluralsight.com/pricing/skills) - Subskrypcja na dostęp do pełnego katalogu szkoleń z rabatem 50%
 
 # Inne listy
 
