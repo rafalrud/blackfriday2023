@@ -7,7 +7,7 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 # Promocje
 * [InnaSiec.pl](https://www.mailingr.co/c/sesame/premium?variant=44ead308-0c22-4ade-a059-045b1f8c6a5e) - Newsletter Premium na rok z rabatem 40% #autopromocja 
 * [Cisco U](https://mkto.cisco.com/black-friday-sale-2023.html) - Platforma edukacyjna Cisco U z rabatem 40% na plan Essentials
-* [Cisco.com](https://learningnetworkstore.cisco.com/promotions) - Cisco Modeling Lab oraz materiały edukacyjne. 40% rabatu na Cyber Monday przez 4h od godziny 17:00 , następnie 25%
+* [Cisco.com](https://learningnetworkstore.cisco.com/promotions) - Cisco Modeling Lab oraz materiały edukacyjne. 40% rabatu na Cyber Monday przez 4h od godziny 17:00, następnie 25%
 * [Eve-ng.net](https://www.eve-ng.net/) - Wirtualne laboratorium zniżka 25% na plan 18 miesięczny
 * [Ebookpoint.pl](https://ebookpoint.pl/promocja-xzay/23/informatyka) - Wybrane pozycje w promocji 2 za 1 lub z rabatem 50%
 * [Helion.pl](https://helion.pl/promocje#anchor_26) - Wybrane pozycje w promocji 2 za 1 lub z rabatem 40% na książki drukowane oraz 50% na ebooki
@@ -20,6 +20,7 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [VMware.com](https://www.vmware.com/products/workstation-pro.html) - Aplikacja do lokalnej wirtualizacji Vmware Workstation Pro z rabatem do 30%
 * [VMware.com](https://blogs.vmware.com/learning/2023/11/20/black-friday-discount-new-beta-exam-and-chance-to-receive-half-off-a-future-vcp-exam/) - Beta egzamin VMware Cloud Infrastructure Administrator za 50$ oraz 50% zniżki na egzamin na poziomie VCP
 * [Pluralsight.com](https://www.pluralsight.com/pricing/skills) - Subskrypcja na dostęp do pełnego katalogu szkoleń z rabatem 50%
+* [Ui.com](https://eu.store.ui.com/eu/en/pro/collections/amplifi-alien/products/amplifi-alien-router-and-meshpoint?variant=afi-aln-eu) - System mesh AmpliFi Alien od 220$
 
 # Inne listy
 
