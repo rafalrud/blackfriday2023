@@ -22,6 +22,7 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [Pluralsight.com](https://www.pluralsight.com/pricing/skills) - Subskrypcja na dostęp do pełnego katalogu szkoleń z rabatem 50%
 * [Ui.com](https://eu.store.ui.com/eu/en/pro/collections/amplifi-alien/products/amplifi-alien-router-and-meshpoint?variant=afi-aln-eu) - System mesh AmpliFi Alien od 220$
 * [PracticalNetworking.net](https://classes.pracnet.net/courses/practical-tls) - Szkolenie z protokołu TLS przecenione z 297$ na 50$
+* [PacketCoders.io](https://www.packetcoders.io/membership-gbp/) - Szkolenia z programowania sieci komputerowych taniej o 20% w planie rocznym
 
 # Inne listy
 
