@@ -25,6 +25,7 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [PacketCoders.io](https://www.packetcoders.io/membership-gbp/) - Szkolenia z programowania sieci komputerowych taniej o 20% w planie rocznym
 * [Devolutions.net](https://blog.devolutions.net/2023/11/black-friday-sale-enjoy-50percent-barbie-sized-savings-on-5-rdm-subscriptions/#save-50percent-on-5-rdm-subscriptions) - Aplikacja do zdalnego pulpitu, roczna subskrypcja z rabatem 50%
 * [Boson.com](https://boson.com/netsim-cisco-network-simulator) - Symulator sieci dla szkoleń certyfikacyjnych Cisco z kodem `CYBER23` rabat 30%
+* [Ostinato.org](https://ostinato.org/pricing/) - Generator ruchu sieciowego ze zniżką 100$
 
 # Inne listy
 
