@@ -26,6 +26,7 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [Devolutions.net](https://blog.devolutions.net/2023/11/black-friday-sale-enjoy-50percent-barbie-sized-savings-on-5-rdm-subscriptions/#save-50percent-on-5-rdm-subscriptions) - Aplikacja do zdalnego pulpitu, roczna subskrypcja z rabatem 50%
 * [Boson.com](https://boson.com/netsim-cisco-network-simulator) - Symulator sieci dla szkoleń certyfikacyjnych Cisco z kodem `CYBER23` rabat 30%
 * [Ostinato.org](https://ostinato.org/pricing/) - Generator ruchu sieciowego ze zniżką 100$
+* [Oreilly.com](https://learning.oreilly.com/signup/?code=CYBERAB23) Roczny abonament z kodem `CYBERAB23` 40% taniej
 
 # Inne listy
 
