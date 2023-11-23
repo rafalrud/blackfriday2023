@@ -23,6 +23,7 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [Ui.com](https://eu.store.ui.com/eu/en/pro/collections/amplifi-alien/products/amplifi-alien-router-and-meshpoint?variant=afi-aln-eu) - System mesh AmpliFi Alien od 220$
 * [PracticalNetworking.net](https://classes.pracnet.net/courses/practical-tls) - Szkolenie z protokołu TLS przecenione z 297$ na 50$
 * [PacketCoders.io](https://www.packetcoders.io/membership-gbp/) - Szkolenia z programowania sieci komputerowych taniej o 20% w planie rocznym
+* [Devolutions.net](https://blog.devolutions.net/2023/11/black-friday-sale-enjoy-50percent-barbie-sized-savings-on-5-rdm-subscriptions/#save-50percent-on-5-rdm-subscriptions) - Aplikacja do zdalnego pulpitu, roczna subskrypcja z rabatem 50% 
 
 # Inne listy
 
