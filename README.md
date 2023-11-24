@@ -27,6 +27,7 @@ Stwórz [pull request](https://github.com/rafalrud/blackfriday2023/pulls).
 * [Boson.com](https://boson.com/netsim-cisco-network-simulator) - Symulator sieci dla szkoleń certyfikacyjnych Cisco z kodem `CYBER23` rabat 30%
 * [Ostinato.org](https://ostinato.org/pricing/) - Generator ruchu sieciowego ze zniżką 100$
 * [Oreilly.com](https://learning.oreilly.com/signup/?code=CYBERAB23) Roczny abonament z kodem `CYBERAB23` 40% taniej
+* [training.mnbnetworks.tech](https://training.mnbnetworks.tech/bundles/network-design-fundamentals) Kurs Network Design Fundamentals Bundle z zasobami - 50% off z kodem 'BF2023' na wszystkie kursy
 
 # Inne listy
 
